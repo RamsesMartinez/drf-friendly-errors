@@ -74,11 +74,11 @@ By running installation script
 
     $ python setup.py install
 
-Or using pip (pendent register xD)
+Or using pip
 
 .. code:: bash
 
-    $ pip install drf-friendly-errors
+    $ pip install drf-friendly-errors-2
 
 Usage
 -----
